@@ -42,16 +42,16 @@ This project introduces and reinforces core networking topics, including:
 - Connectivity rules and reachability analysis
 
 ### Documentation and References
-- RFC 791 – Internet Protocol
-- RFC 950 – Subnetting
-- Cisco Subnetting Tutorial  
-- OSI Model Overview (layers and responsibilities)  
-- General IPv4 addressing and routing documentation  
-- Online subnet calculators for training (not for solving the exercises)
+- IBM Documentation: foundational explanations of networking, TCP/IP, and subnets
+- GeeksforGeeks: articles covering subnetting, routing, and IP addressing exercises
+- NetworkChuck (YouTube): visual explanations of subnetting and routing concepts
+- AI assistance (ChatGPT):
+	Clarifying networking concepts
+	Helping debug reasoning errors when a level didn't validate
+	Explaining subnet calculations and routing logic
 
 ### Use of AI in the Project
 AI tools (such as ChatGPT) were used **strictly for educational guidance**, including:
 - Understanding networking concepts (CIDR, routing, subnetting)
 - Clarifying error messages when configurations failed
 - Explaining why a configuration does or does not work
-- Helping draft this README.md following the 42 requirements
