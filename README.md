@@ -45,10 +45,7 @@ This project introduces and reinforces core networking topics, including:
 - IBM Documentation: foundational explanations of networking, TCP/IP, and subnets
 - GeeksforGeeks: articles covering subnetting, routing, and IP addressing exercises
 - NetworkChuck (YouTube): visual explanations of subnetting and routing concepts
-- AI assistance (ChatGPT):
-	Clarifying networking concepts
-	Helping debug reasoning errors when a level didn't validate
-	Explaining subnet calculations and routing logic
+- AI assistance (ChatGPT): Clarifying networking concepts, Helping debug reasoning errors when a level didn't validate, Explaining subnet calculations and routing logic
 
 ### Use of AI in the Project
 AI tools (such as ChatGPT) were used **strictly for educational guidance**, including:
